@@ -1,10 +1,10 @@
 # Qatabum: Álbum Qatar 2022 - Taller de Desarrollo de Proyectos 2 - Grupo 03
 
-## https://qatabum.herokuapp.com
+## Acceso: https://qatabum.herokuapp.com
 
 Conjunto de repositorios para Qatabum - Trabajo práctico de Taller De Desarrollo de Proyectos II - 2C 2022 - Facultad de Ingeniería - Universidad de Buenos Aires (UBA)
 
-<img src="https://github.com/Taller-De-Desarrollo-de-Proyectos-2/.github/assets/6344343/c1435b3a-c93c-4686-9a6a-00204295202c" width="800"></img>
+<img src="https://github.com/Taller-De-Desarrollo-de-Proyectos-2/.github/assets/6344343/533523e7-de9d-4b9d-9e4e-d03554645f87" width="800"></img>
 
 ## Descripción
 
@@ -44,13 +44,23 @@ Qatabum es una aplicación web responsive para escritorio y dispositivos móvile
 ## Showcase
 
 <details>
-  <summary>Qatabum web app</summary>
+  <summary>Qatabum web app (desktop)</summary>
+  <img src="https://github.com/Taller-De-Desarrollo-de-Proyectos-2/.github/assets/6344343/388e3130-30ca-417c-8d23-bca196141da3"></img>
+  <img src="https://github.com/Taller-De-Desarrollo-de-Proyectos-2/.github/assets/6344343/bba1ac5f-6434-44a6-a150-4cad2b8a7375"></img>
+  <img src="https://github.com/Taller-De-Desarrollo-de-Proyectos-2/.github/assets/6344343/cecb6cb9-5fa0-4c4c-8013-1fcb2cf693af"></img>
+  <img src="https://github.com/Taller-De-Desarrollo-de-Proyectos-2/.github/assets/6344343/692bb02f-6008-4779-95d4-d88e46f5441d"></img>
+  
   <img src="https://github.com/Taller-De-Desarrollo-de-Proyectos-2/.github/assets/6344343/2cfa70d7-c4f6-4d32-a991-fa68d000877f" width="900"></img>
   <img src="https://github.com/Taller-De-Desarrollo-de-Proyectos-2/.github/assets/6344343/cf6140a1-7a69-4dff-a790-a2a6b5bf9577" width="900"></img>
   <img src="https://github.com/Taller-De-Desarrollo-de-Proyectos-2/.github/assets/6344343/2523b3ca-7950-4895-8ffd-2804c119809c" width="900"></img>
   <img src="https://github.com/Taller-De-Desarrollo-de-Proyectos-2/.github/assets/6344343/c6959f47-5981-4a43-a05e-93492b3ff649" width="900"></img>
   <img src="https://github.com/Taller-De-Desarrollo-de-Proyectos-2/.github/assets/6344343/25996442-95fe-46fd-9255-8a637be57648" width="900"></img>
   <img src="https://github.com/Taller-De-Desarrollo-de-Proyectos-2/.github/assets/6344343/46c4ecf1-fe10-4b81-9bdb-4abc26191895" width="900"></img>
+</details>
+
+<details>
+  <summary>Qatabum web app (mobile)</summary>
+  <img src="https://github.com/Taller-De-Desarrollo-de-Proyectos-2/.github/assets/6344343/8a2d6fe0-22bd-46f0-ac3d-4e624080bdbc"></img>
 
 </details>
 
