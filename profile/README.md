@@ -66,6 +66,9 @@ Qatabum es una aplicación web responsive para escritorio y dispositivos móvile
 
 <details>
   <summary>Backoffice web app</summary>
+  <img src="https://github.com/Taller-De-Desarrollo-de-Proyectos-2/.github/assets/6344343/c7536ea5-da10-485c-8c5c-1646599e0d41" width="900"></img>
+  <img src="https://github.com/Taller-De-Desarrollo-de-Proyectos-2/.github/assets/6344343/6c71d03c-b45c-404c-b71a-c81b764923d4" width="900"></img>
+  <img src="https://github.com/Taller-De-Desarrollo-de-Proyectos-2/.github/assets/6344343/c360ccf1-2a5f-442c-b31a-56874af71b98" width="900"></img>
 </details>
 
 ## Enunciado/idea preliminar original del TP
